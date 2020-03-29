@@ -15,9 +15,6 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
-    //this project based on the mortuza korti udemy tuitorial
-
-
     private Button btnRollTheDice;
     private ImageView imgViewDice1;
     private ImageView imgViewDice2;
